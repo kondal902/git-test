@@ -1,2 +1,6 @@
 This is first file in git
+<<<<<<< HEAD
 please use this file for testing purpose only
+=======
+please use this file
+>>>>>>> parent of 16cbc85... First commit
