@@ -1,2 +1,2 @@
 This is first file in git
-please use this file for testing purpose
+please use this file for testing purpose only
